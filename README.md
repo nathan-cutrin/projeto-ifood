@@ -3,4 +3,4 @@
 ## Storytelling case
 
 
-#### Este projeto teve objetivo construir um dashboard no Tableau com dados de aplicativos como Netflix, Spotify, Google Maps e iFood de outra pessoa.
+#### Este projeto teve como objetivo construir um dashboard no Tableau com dados de aplicativos como Netflix, Spotify, Google Maps e iFood.
